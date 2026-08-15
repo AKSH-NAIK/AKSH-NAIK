@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔧 Currently developing: Collaborative real-time web applications .<br>🚀 Building: High-performance full-stack tools on the MERN stack .<br>🧠 Always learning: Exploring advanced DBMS architecture and real-time rendering.<br>🤝 Engagement: Open to professional web development internships and technical brainstorming.<br>🌐 Connect: Explore my live projects at akshnaik.vercel.app.<br>💬 Ask me about: JavaScript, C++, MongoDB, and building production-ready CRUD applications.<br>🥁 Interests: Enthusiastic about Indian classical music .
+🔧 Currently developing: Collaborative real-time web applications .<br>🚀 Building: High-performance full-stack tools on the MERN stack .<br>🧠 Always learning: Exploring advanced DBMS architecture and real-time rendering.<br>🤝 Engagement: Open to professional web development internships and technical brainstorming.<br>🌐 Connect: Explore my live projects at akshnaik.vercel.app.<br>💬 Ask me about: JavaScript, C++, MongoDB, and building production-ready CRUD applications.
 
 
 ## 🌐 Socials:
